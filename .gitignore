@@ -77,5 +77,6 @@ testem.log
 
 # Spring Boot files
 02-backend/spring-boot-ecommerce/build/
+02-backend/spring-boot-ecommerce/gradle/
 02-backend/spring-boot-ecommerce/.gradle/
 02-backend/spring-boot-ecommerce/build.gradle
