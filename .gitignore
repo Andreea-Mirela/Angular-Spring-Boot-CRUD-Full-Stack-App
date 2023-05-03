@@ -72,11 +72,13 @@ testem.log
 
 # Angular files
 03-frontend/angular-ecommerce/dist/
+03-frontend/angular-ecommerce/.angular/
 03-frontend/angular-ecommerce/node_modules/
 03-frontend/angular-ecommerce/src/main/resources/static/
 
 # Spring Boot files
 02-backend/spring-boot-ecommerce/build/
 02-backend/spring-boot-ecommerce/gradle/
+02-backend/spring-boot-ecommerce/gradlew/
 02-backend/spring-boot-ecommerce/.gradle/
 02-backend/spring-boot-ecommerce/build.gradle
